@@ -1,0 +1,19 @@
+url: "http://causaltext.github.io/"
+name: Casual Inference + NLP
+description: Casual Inference + NLP
+author_image_path: /images/logo.jpg
+
+# Markdown rendering
+kramdown:
+  #  smart_quotes: apos,apos,quot,quot
+  parse_block_html: true
+
+# Site settings
+permalink: /blog/:year/:month/:day/:title/
+
+# important since the site is compiled
+# on Github's servers
+timezone: America/New_York
+
+plugins:
+  - jekyll-redirect-from

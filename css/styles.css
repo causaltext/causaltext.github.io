@@ -1,0 +1,182 @@
+body {
+    padding-left: 8%;
+    background-color: #fff;
+}
+
+.container {
+    margin: 4em 0 0 0;
+}
+
+/* Links */
+
+.right-column a {
+    color: #A55858;
+}
+
+.small {
+    font-style: italic;
+    opacity: 0.75;
+    font-size: 0.95em;
+    padding-left: 2em;
+    width: 85%;
+}
+
+.gap {
+    margin-top: 0.5em !important;
+}
+
+/* Left column of homepage */
+
+.author-info {
+    /*font-size: 0.9em;
+    float: right;*/
+    text-align: right;
+    /*width: 165px;*/
+}
+
+.author-image {
+    height: 90px;
+    width: 90px;
+}
+
+.author-name {
+    margin: 0.2em 0;
+}
+
+.author-info a {
+  background: none; /* Don't underline sidebar links */
+}
+
+.home-nav ul {
+    list-style-type: none;
+}
+
+.home-nav a {
+    color: #333;
+    text-decoration: none;
+}
+*/
+
+.email {
+     color: #999;
+     padding-top: 0.4em;
+}
+
+.nav a {
+    padding-left: 1em;
+}
+
+.right-column {
+    max-width: 40em;
+    padding: 0 3em;
+}
+
+/* Blog */
+
+.title {
+    margin: 0;
+}
+
+.title a, .post-meta a {
+    background: none;
+    color: #111;
+}
+
+.title-large {
+    /*clear: left;
+    font-size: 3em;
+    letter-spacing: -2px;*/
+    margin: 0;
+}
+
+blockquote {
+  border-left: 1pt solid #eee;
+  padding-left: 1em;
+}
+
+blockquote p {
+  width: 100%;
+}
+
+pre {
+    white-space: pre;
+}
+
+pre > code {
+    width: 100%;
+}
+
+.content img {
+    display: block;
+    margin: 0 auto;
+}
+
+.content .frame {
+  position: relative;
+  padding-bottom: 65.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: auto;
+  -webkit-overflow-scrolling:touch;
+}
+
+.content .frame iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.content .caption {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    margin: 0 auto 2em auto;
+    width: 80%;
+}
+
+.content .discuss {
+    font-style: italic;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+}
+
+.footnotes {
+  font-size: 0.8em;
+  line-height: 1.5em;
+}
+
+@media (max-width: 767px) {
+    .container {
+        margin: 3em 0;
+    }
+
+    .author-info {
+        float: none;
+        margin: 0 auto 3em auto;
+        text-align: center;
+        width: 80%;
+    }
+
+    .nav a {
+        padding: 0.5em;
+    }
+
+    .home-nav ul {
+        padding: 0;
+    }
+
+    .home-nav li {
+        display: inline-block;
+        padding: 0 0.5em;
+    }
+
+    .small {
+        padding-left: 0em;
+        width: 100%;
+    }
+
+    .right-column {
+        padding: 0em;
+    }
+}

@@ -7,4 +7,6 @@ title: Program
 {: style="margin-top:0; margin-bottom: 0;"}
 # First Workshop on Causal Inference & NLP
 
-## Program
+## Workshop Program
+
+To be announced.

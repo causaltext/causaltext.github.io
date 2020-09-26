@@ -9,13 +9,17 @@ title: Home
 {: style="margin-top:0; margin-bottom: 0;"}
 # First Workshop on Causal Inference & NLP
 
-## June XX, 2021 (colocated with XXX 2021)
+## Venue & Dates TBA
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The CI+NLP workshop brings together domain and methodological experts
+across academic communities, with an interest in the intersection of causal
+inference and natural language processing. Together, we will explore how current and new NLP methodology
+can contribute to establishing and evaluating causal relationships, and how
+substantive expertise from different domains can contribute to answering causal
+questions with text.
 
 ## Invited Speakers
 
-   * Invited speaker 1
-   * Invited speaker 2
-   * Invited speaker 3
-   * Invited speaker 4
+   * **[Susan Athey](https://athey.people.stanford.edu/)** (Stanford)
+   * **[David Blei](http://www.cs.columbia.edu/~blei/)** (Columbia)
+   * **[Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/)** (Cornell) 

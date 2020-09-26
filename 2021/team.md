@@ -7,19 +7,28 @@ title: Organizing Team
 {: style="margin-top:0; margin-bottom: 0;"}
 # First Workshop on Causal Inference & NLP
 
-## Organizing Team 
+The workshop organizers can be reached synchronously on Discord at
+[#causaltext](https://discord.gg/wPb8Rwa), or asynchronously by email at
+[causaltext@gmail.com](mailto:causaltext@gmail.com).
 
-  * Jacob Eisenstein
+## Organizing Committee
+  
+  {: style="column-count:2;"}
   * Amir Feder
-  * Justin Grimmer
   * Katherine Keith
   * Emaad Manzoor
   * Reid Pryzant
+  * Dhanya Sridhar
+  * Zach Wood-Doughty
+
+## Steering Committee
+  
+  {: style="column-count:2;"}
+  * Jacob Eisenstein
+  * Justin Grimmer
   * Roi Reichart
-  * Dhanya Shridhar
   * Molly Roberts
   * Uri Shalit
   * Brandon Stewart
   * Victor Veitch
-  * Zach Wood-Doughty
   * Diyi Yang

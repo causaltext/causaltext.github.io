@@ -7,21 +7,30 @@ title: Call for Papers
 {: style="margin-top:0; margin-bottom: 0;"}
 # First Workshop on Causal Inference & NLP
 
-## Call for Papers 
+We invite papers broadly related to the intersection of causal inference
+and NLP. Topics of interest include, but are not restricted to:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   * **Causal inference methodology for language:** Includes methodology for causal
+     inference and optimal policy learning with experimental or observational data,
+     where text is a treatment, outcome, mediator or moderator. 
 
-Topics of interest include, but are not limited to:
+   * **Language processing systems and causality:** Includes research on
+     counterfactual predictions with text, causal model interpretation and
+     explanation, causal model debiasing, and datasets to benchmark
+     the sensitivity and robustness of causal NLP systems.
 
-   * Topic of interest
-   * Topic of interest
-   * Topic of interest
-   * Topic of interest
-   * Topic of interest
-   * Topic of interest
-   * Topic of interest
-   * Topic of interest
+   * **Society, language, and causality:** Includes research on language as a
+     mechanism of influence and provocation, and causal questions related to
+     linguistic framing, medical notes and clinical outcomes, and political
+     messaging and propaganda.
 
 ## Important Dates
 
-## Submissions
+   * Submissions due: TBA
+   * Notification of acceptance: TBA
+   * Camera-ready submissions due: TBA
+   * Workshop: TBA
+
+## Submission Information
+
+Submission types, format and upload locations to be announced.

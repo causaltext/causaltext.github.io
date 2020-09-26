@@ -15,24 +15,24 @@ The workshop organizers can be reached at:
 ## Organizing Committee
   
   {: style="column-count:2;"}
-  * Amir Feder
-  * Katherine Keith
-  * Emaad Manzoor
-  * Reid Pryzant
-  * Dhanya Sridhar
-  * Zach Wood-Doughty
+  * [Amir Feder](https://amirfeder.github.io/)
+  * [Katherine Keith](https://kakeith.github.io/)
+  * [Emaad Manzoor](http://emaadmanzoor.com/)
+  * [Reid Pryzant](https://cs.stanford.edu/~rpryzant/)
+  * [Dhanya Sridhar](https://dsridhar91.github.io/)
+  * [Zach Wood-Doughty](https://zachwd.com/)
 
 ## Steering Committee
   
   {: style="column-count:2;"}
-  * Jacob Eisenstein
-  * Justin Grimmer
-  * Roi Reichart
-  * Molly Roberts
-  * Uri Shalit
-  * Brandon Stewart
-  * Victor Veitch
-  * Diyi Yang
+  * [Jacob Eisenstein](https://jacobeisenstein.github.io/)
+  * [Justin Grimmer](https://www.justingrimmer.org/)
+  * [Roi Reichart](https://ie.technion.ac.il/~roiri/)
+  * [Molly Roberts](http://www.margaretroberts.net/)
+  * [Uri Shalit](https://shalit.net.technion.ac.il/)
+  * [Brandon Stewart](https://scholar.princeton.edu/bstewart)
+  * [Victor Veitch](http://www.victorveitch.com/)
+  * [Diyi Yang](https://www.cc.gatech.edu/~dyang888/)
 
 ## Program Committee
 

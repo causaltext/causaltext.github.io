@@ -41,6 +41,7 @@ The workshop organizers can be reached at:
   * Tim Althoff (U. Washington)
   * Alexander D’Amour (Google)
   * Elliott Ash (ETH Zurich)
+  * Zhijing Jin (Max Planck Institute)
   * Yonatan Belinkov (Technion)
   * Dallas Card (Stanford)
   * Naoki Egami (Columbia)

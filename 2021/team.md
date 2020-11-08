@@ -51,6 +51,7 @@ The workshop organizers can be reached at:
   * Divyansh Kaushik (CMU)
   * Vivek Kulkarni (Stanford)
   * Adyasha Maharana (UNC)
+  * Huyen T.T. Nguyen (U. Hamburg)
   * Jekaterina Novikova (Winterlight Labs)
   * Nadav Oved (Technion)
   * Yuval Pinter (Georgia Tech)

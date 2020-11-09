@@ -47,6 +47,7 @@ The workshop organizers can be reached at:
   * Naoki Egami (Columbia)
   * Anjalie Field (CMU)
   * Peter Henderson (Stanford)
+  * Yohan Jo (CMU)
   * Shalmali Joshi (Vector Inst.)
   * Divyansh Kaushik (CMU)
   * Vivek Kulkarni (Stanford)

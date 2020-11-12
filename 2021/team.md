@@ -48,7 +48,7 @@ The workshop organizers can be reached at:
   * Anjalie Field (CMU)
   * Peter Henderson (Stanford)
   * Yohan Jo (CMU)
-  * Shalmali Joshi (Vector Inst.)
+  * Shalmali Joshi (Harvard)
   * Divyansh Kaushik (CMU)
   * Vivek Kulkarni (Stanford)
   * Adyasha Maharana (UNC)

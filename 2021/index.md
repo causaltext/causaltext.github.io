@@ -18,6 +18,8 @@ can contribute to establishing and evaluating causal relationships, and how
 substantive expertise from different domains can contribute to answering causal
 questions with text.
 
+**Subscribe to our [mailing list](https://4zpahwk1adr.typeform.com/to/TDotbHfM) to stay updated!**
+
 ## Invited Speakers
 
    * **[Susan Athey](https://athey.people.stanford.edu/)** (Stanford)

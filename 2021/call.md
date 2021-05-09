@@ -26,10 +26,10 @@ and NLP. Topics of interest include, but are not restricted to:
 
 ## Important Dates
 
-   * Submissions due: TBA
-   * Notification of acceptance: TBA
-   * Camera-ready submissions due: TBA
-   * Workshop: TBA
+   * Submissions due: August 5, 2021
+   * Notification of acceptance: September 5, 2021
+   * Camera-ready papers due: September 15, 2021
+   * Workshop: November 10 or 11 (TBA), 2021
 
 ## Submission Information
 

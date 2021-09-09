@@ -20,6 +20,10 @@ questions with text.
 
 **Subscribe to our [mailing list](https://4zpahwk1adr.typeform.com/to/TDotbHfM) to stay updated!**
 
+<p class="alert">
+  <strong>Update:</strong>Check out our survey paper on <a href="https://arxiv.org/abs/2109.00725">Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond</a>!
+</p>
+
 ## Invited Speakers
 
    * **[Susan Athey](https://athey.people.stanford.edu/)** (Stanford)

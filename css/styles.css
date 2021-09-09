@@ -3,6 +3,17 @@ body {
     background-color: #fff;
 }
 
+.alert {
+  background-color: #FFFEE0;
+  border: 1px solid;
+  border-color: #CCC;
+  padding: 2rem;
+}
+
+.alert a {
+  color: #A55858;
+}
+
 .container {
     margin: 4em 0 0 0;
 }

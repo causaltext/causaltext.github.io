@@ -7,7 +7,7 @@ title: Call for Papers
 {: style="margin-top:0; margin-bottom: 0;"}
 # First Workshop on Causal Inference & NLP
 
-<i>Submit your work <a href="https://www.softconf.com/emnlp2021/CI-NLP/" style="color: #A55858;">here</a></i>!
+<!--<i>Submit your work <a href="https://www.softconf.com/emnlp2021/CI-NLP/" style="color: #A55858;">here</a></i>!-->
 
 We invite papers broadly related to the intersection of causal inference
 and NLP. Topics of interest include, but are not restricted to:

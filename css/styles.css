@@ -18,6 +18,28 @@ body {
     margin: 4em 0 0 0;
 }
 
+.details {
+    font-size: 1.25rem;
+    line-height: 1.35rem;
+    width: 100%;
+}
+
+.schedule {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    width: 100%;
+}
+
+.coursepage {
+    max-width: 60em;
+    margin: 0 auto;
+}
+
+.publications ul {
+    list-style-type: none;
+    padding-left: 1em;
+}
+
 /* Links */
 
 .right-column a {

@@ -23,7 +23,8 @@ title: Program
 15:35 --- 16:25	| Keynote Talk: **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** |
 16:25 --- 16:45	| *Coffee Break* |
 16:45 --- 17:30	| Panel Discussion |
-17:30 --- 18:30	| Keynote Talk: **[Susan Athey](https://athey.people.stanford.edu/)** |
+17:30 --- 18:20	| Keynote Talk: **[Susan Athey](https://athey.people.stanford.edu/)** |
+18:20 --- 18:30 | Closing Remarks |
 
 ## Accepted Papers
 

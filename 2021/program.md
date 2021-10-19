@@ -22,9 +22,23 @@ title: Program
 14:45 --- 15:35	| Poster Session |
 15:35 --- 16:25	| Keynote Talk: **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** |
 16:25 --- 16:45	| *Coffee Break* |
-16:45 --- 17:30	| Panel Discussion |
+16:45 --- 17:30	| **[Panel Discussion](#panel-discussion)**  |
 17:30 --- 18:20	| Keynote Talk: **[Susan Athey](https://athey.people.stanford.edu/)** |
 18:20 --- 18:30 | Closing Remarks |
+
+## Panel Discussion
+
+For our panel discussion, we have invited experts in NLP and causal inference to discuss their recent work at this intersection and vision for the future. We will discuss both estimating causal effects from text and using causality to better inform NLP prediction.
+
+**Panelists:**
+
+   * Aron Culotta, Tulane, http://cs.tulane.edu/~aculotta/
+   * Amir Feder, Technion, https://amirfeder.github.io/
+   * Jacob Eisenstein, Google, https://jacobeisenstein.github.io/
+   * Dhanya Sridhar, University of Montreal, https://dsridhar91.github.io/
+   * Brandon Stewart, Princeton, https://scholar.princeton.edu/bstewart/home
+   * Justin Zhang, Stanford, https://tisjune.github.io/
+
 
 ## Accepted Papers
 

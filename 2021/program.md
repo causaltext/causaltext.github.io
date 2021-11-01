@@ -37,7 +37,7 @@ For our panel discussion, we have invited experts in NLP and causal inference to
    * Jacob Eisenstein, Google, https://jacobeisenstein.github.io/
    * Dhanya Sridhar, University of Montreal, https://dsridhar91.github.io/
    * Brandon Stewart, Princeton, https://scholar.princeton.edu/bstewart/home
-   * Justin Zhang, Stanford, https://tisjune.github.io/
+   * Justine Zhang, Stanford, https://tisjune.github.io/
 
 
 ## Accepted Papers

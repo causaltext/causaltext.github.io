@@ -24,7 +24,9 @@ title: Program
 16:25 --- 16:45	| *Coffee Break* |
 16:45 --- 17:30	| **[Panel Discussion](#panel-discussion)**  |
 17:30 --- 18:20	| Keynote Talk: **[Susan Athey](https://athey.people.stanford.edu/)** |
-18:20 --- 18:30 | Closing Remarks |
+18:20 --- 18:30	| *Mini Break* |
+18:30 --- 19:20	| Keynote Talk: **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)** |
+19:20 --- 18:30 | Closing Remarks |
 
 ## Panel Discussion
 

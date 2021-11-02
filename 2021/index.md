@@ -24,4 +24,6 @@ questions with text.
 
    * **[Susan Athey](https://athey.people.stanford.edu/)** (Stanford)
    * **[David Blei](http://www.cs.columbia.edu/~blei/)** (Columbia)
-   * **[Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/)** (Cornell) 
+   * **[Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/)** (Cornell)
+   * **[Bernhard Schölkopf](https://www.is.mpg.de/~bs)** (Max Planck Institute for Intelligent Systems) 
+ 

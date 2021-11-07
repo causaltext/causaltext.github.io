@@ -10,23 +10,23 @@ title: Program
 <p style="margin-bottom: 1.2em;"></p>
 
 {: class="pure-table pure-table-horizontal schedule"}
-| Nov 10, 2021 | All times are in Punta Cana Time, UTC -4 |
-| --- | --- |
-09:00 --- 09:10 | Opening Remarks |
-09:10 --- 10:00	| Keynote Talk: **[David Blei](http://www.cs.columbia.edu/~blei/)** |
-10:00 --- 10:30	| *Coffee Break* |
-10:30 --- 12:00	| Paper Oral Session I |
-12:00 --- 13:00	| *Lunch Break* |
-13:00 --- 14:30	| Paper Oral Session II |
-14:30 --- 14:45	| *Mini Break* |
-14:45 --- 15:35	| Poster Session |
-15:35 --- 16:25	| Keynote Talk: **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** |
-16:25 --- 16:45	| *Coffee Break* |
-16:45 --- 17:30	| **[Panel Discussion](#panel-discussion)**  |
-17:30 --- 18:20	| Keynote Talk: **[Susan Athey](https://athey.people.stanford.edu/)** |
-18:20 --- 18:30	| *Mini Break* |
-18:30 --- 19:20	| Keynote Talk: **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)** |
-19:20 --- 18:30 | Closing Remarks |
+| Punta Cana (UTC -4) | EDT (UTC -5) | PDT (UTC -8) | |
+| --- | --- | --- | --- |
+**09:00 --- 09:10** | 08:00 --- 08:10 | 05:00 --- 05:10 | Opening Remarks |
+**09:10 --- 10:00**	| 08:10 --- 09:00 | 05:10 --- 06:00 | Keynote Talk: **[David Blei](http://www.cs.columbia.edu/~blei/)** |
+**10:00 --- 10:30**	| 09:00 --- 09:30 | 06:00 --- 06:30 | *Coffee Break* |
+**10:30 --- 12:00**	| 09:30 --- 11:00 | 06:30 --- 08:00 | Paper Oral Session I |
+**12:00 --- 13:00**	| 11:00 --- 12:00 | 08:00 --- 09:00 | *Lunch Break* |
+**13:00 --- 14:30**	| 12:00 --- 13:30 | 09:00 --- 10:30 | Paper Oral Session II |
+**14:30 --- 14:45**	| 13:30 --- 13:45 | 10:30 --- 10:45 | *Mini Break* |
+**14:45 --- 15:35**	| 13:45 --- 14:35 | 10:45 --- 11:35 | Poster Session |
+**15:35 --- 16:25**	| 14:35 --- 15:25 | 11:35 --- 12:25 | Keynote Talk: **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** |
+**16:25 --- 16:45**	| 15:25 --- 15:45 | 12:25 --- 12:45 | *Coffee Break* |
+**16:45 --- 17:30**	| 15:45 --- 16:30 | 12:45 --- 13:30 | **[Panel Discussion](#panel-discussion)**  |
+**17:30 --- 18:20**	| 16:30 --- 17:20 | 13:30 --- 14:20 | Keynote Talk: **[Susan Athey](https://athey.people.stanford.edu/)** |
+**18:20 --- 18:30**	| 17:20 --- 17:30 | 14:20 --- 14:30 | *Mini Break* |
+**18:30 --- 19:20**	| 17:30 --- 18:20 | 14:30 --- 15:20 | Keynote Talk: **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)** |
+**19:20 --- 18:30** | 18:20 --- 17:30 | 16:20 --- 15:30 | Closing Remarks |
 
 ## Panel Discussion
 

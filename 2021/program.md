@@ -10,7 +10,7 @@ title: Program
 <p style="margin-bottom: 1.2em;"></p>
 
 {: class="pure-table pure-table-horizontal schedule"}
-| Punta Cana<br/>(UTC -4) | EDT<br/>(UTC -5) | PDT<br/>(UTC -8) | |
+| Punta Cana<br/>(UTC -4) | EST<br/>(UTC -5) | PST<br/>(UTC -8) | |
 | --- | --- | --- | --- |
 **09:00 ---<br/>09:10** | 08:00 ---<br/>08:10 | 05:00 ---<br/>05:10 | Opening Remarks |
 **09:10 ---<br/>10:00**	| 08:10 ---<br/>09:00 | 05:10 ---<br/>06:00 | **Keynote:** **[David Blei](http://www.cs.columbia.edu/~blei/)** |

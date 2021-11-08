@@ -26,7 +26,7 @@ title: Program
 **17:30 ---<br/>18:20**	| 16:30 ---<br/>17:20 | 13:30 ---<br/>14:20 | **Keynote:** **[Susan Athey](https://athey.people.stanford.edu/)** |
 **18:20 ---<br/>18:30**	| 17:20 ---<br/>17:30 | 14:20 ---<br/>14:30 | *Mini Break* |
 **18:30 ---<br/>19:20**	| 17:30 ---<br/>18:20 | 14:30 ---<br/>15:20 | **Keynote:** **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)** |
-**19:20 ---<br/>18:30** | 18:20 ---<br/>17:30 | 16:20 ---<br/>15:30 | Closing Remarks |
+**19:20 ---<br/>19:30** | 18:20 ---<br/>18:30 | 15:20 ---<br/>15:30 | Closing Remarks |
 
 ## Panel Discussion
 

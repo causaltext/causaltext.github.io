@@ -65,7 +65,7 @@ to interact further with paper authors during the poster session.
    5. * **An animated picture says at least a thousand words: Selecting Gif-based Replies in Multimodal Dialog** (in-person)
        * *Xingyao Wang and David Jurgens*
 
-   6. * **ConceptData: The Challenges of Creating a Causal Benchmark for Explanation Methods in NLP** ([poster](https://drive.google.com/drive/folders/1CXUuc_8CKNVvV_ME3B9zXO0zW91EkgJu?usp=sharing))
+   6. * **ConceptData: The Challenges of Creating a Causal Benchmark for Explanation Methods in NLP** (virtual, [poster](https://drive.google.com/drive/folders/1CXUuc_8CKNVvV_ME3B9zXO0zW91EkgJu?usp=sharing))
       * *Eldar D. Abraham, Amir Feder and Roi Reichart*
 
 ### Oral Session II

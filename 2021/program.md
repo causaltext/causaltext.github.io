@@ -56,13 +56,13 @@ to interact further with paper authors during the poster session.
    2. * **Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects** (in-person, [poster](https://drive.google.com/file/d/1787tdZp6XaT1Rsl9-g5iQIRtbwBeYbFr/view?usp=drive_web))
       * *Katherine Keith, Douglas Rice and Brendan O'Connor*
   
-   3. * **Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US** (in-person, [poster](https://drive.google.com/file/d/1dZ-yd4uc0T9HPbjQ7tsEBZw9ddoFfcYT/))
+   3. * **Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US** (in-person, [poster](https://drive.google.com/file/d/1dZ-yd4uc0T9HPbjQ7tsEBZw9ddoFfcYT/), [paper](https://drive.google.com/file/d/1Y2Wcn8D9sBcSi4Or0cR7gxA2jZ5jUUQE/view))
       * *Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf and Rada Mihalcea*
 
    4. * **Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization** (in-person, [poster](https://www.dropbox.com/s/2iyerl73np3n1ui/poster.pdf?dl=0))
       * *Graham Tierney and Alexander Volfovsky*
    
-   5. * **An animated picture says at least a thousand words: Selecting Gif-based Replies in Multimodal Dialog** (in-person)
+   5. * **An animated picture says at least a thousand words: Selecting Gif-based Replies in Multimodal Dialog** (in-person, [paper](http://jurgens.people.si.umich.edu/docs/gif_reply-emnlp-2021.pdf))
        * *Xingyao Wang and David Jurgens*
 
    6. * **ConceptData: The Challenges of Creating a Causal Benchmark for Explanation Methods in NLP** (virtual, [poster](https://drive.google.com/drive/folders/1CXUuc_8CKNVvV_ME3B9zXO0zW91EkgJu?usp=sharing))

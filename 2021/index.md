@@ -20,7 +20,7 @@ can contribute to establishing and evaluating causal relationships, and how
 substantive expertise from different domains can contribute to answering causal
 questions with text.
 
-** Check out our [survey on Causal Inference in NLP: Estimation, Prediction, Interpretation and Beyond](https://arxiv.org/abs/2109.00725)!
+**Check out our [survey on Causal Inference in NLP: Estimation, Prediction, Interpretation and Beyond](https://arxiv.org/abs/2109.00725)!**
 
 ## Keynote Speakers
 

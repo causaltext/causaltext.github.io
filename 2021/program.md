@@ -13,7 +13,7 @@ title: Program
 | Punta Cana<br/>(UTC -4) | EST<br/>(UTC -5) | PST<br/>(UTC -8) | |
 | --- | --- | --- | --- |
 **09:00 ---<br/>09:10** | 08:00 ---<br/>08:10 | 05:00 ---<br/>05:10 | Opening Remarks (Roi Reichart) |
-**09:10 ---<br/>10:00**	| 08:10 ---<br/>09:00 | 05:10 ---<br/>06:00 | **Keynote:** **[David Blei](http://www.cs.columbia.edu/~blei/)**<br/>*Session Chair: Roi Reichart*|
+**09:10 ---<br/>10:00**	| 08:10 ---<br/>09:00 | 05:10 ---<br/>06:00 | **Keynote:** **[David Blei](http://www.cs.columbia.edu/~blei/)**([slides](https://drive.google.com/file/d/1zaS7EXNh59p6SbaCoUd58t-fBcaZNnkB/view?usp=gmail))<br/>*Session Chair: Roi Reichart*|
 **10:00 ---<br/>10:30**	| 09:00 ---<br/>09:30 | 06:00 ---<br/>06:30 | *Coffee Break* |
 **10:30 ---<br/>12:00**	| 09:30 ---<br/>11:00 | 06:30 ---<br/>08:00 | **Paper Oral Session I**<br/>*Session Chair: Amir Feder* |
 **12:00 ---<br/>13:00**	| 11:00 ---<br/>12:00 | 08:00 ---<br/>09:00 | *Lunch Break* |

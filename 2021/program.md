@@ -83,8 +83,8 @@ to interact further with paper authors during the poster session.
    4. * **What Makes a Scientific Paper be Accepted for Publication?** (virtual)
       * *Panagiotis Fytas, Georgios Rizos and Lucia Specia*
 
-   5. * **A Survey of Online Hate Speech through the Causal Lens**
+   5. * **A Survey of Online Hate Speech through the Causal Lens** (virtual)
       * *Antigoni Founta and Lucia Specia*
 
-   6. * **Identifying Causal Influences on Publication Trends and Behavior: A Case Study of the Computational Linguistics Community**
+   6. * **Identifying Causal Influences on Publication Trends and Behavior: A Case Study of the Computational Linguistics Community** (virtual)
        * *Maria Glenski and Svitlana Volkova*

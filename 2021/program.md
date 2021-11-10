@@ -77,7 +77,7 @@ to interact further with paper authors during the poster session.
    2. * **Media Slant is Contagious** (virtual)
       * *Elliott Ash, Philine Widmer and Sergio Galletta*
    
-   3. * **Enhancing Model Robustness and Fairness with Causality: A Regularization Approach** (virtual)
+   3. * **Enhancing Model Robustness and Fairness with Causality: A Regularization Approach** (virtual, [poster](https://mail.google.com/mail/u/1?ui=2&ik=ef6f679caf&attid=0.1&permmsgid=msg-f:1715929797889055012&th=17d0350f4eaf5924&view=att&disp=inline))
       * *Zhao Wang, Kai Shu and Aron Culotta*
   
    4. * **What Makes a Scientific Paper be Accepted for Publication?** (virtual)

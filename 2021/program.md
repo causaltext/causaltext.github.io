@@ -74,7 +74,7 @@ to interact further with paper authors during the poster session.
    1. * **It's quality and quantity: the effect of the amount of comments on online suicidal posts** (in-person, [poster](https://drive.google.com/file/d/1kUyRYpjo0u6G2iQhXqUAG0Iv6THaEVCA/view?usp=gmail))
        * *Daniel M. Low, Kelly Zuromski, Daniel Kessler, Satrajit S. Ghosh, Matthew K. Nock and Walter Dempsey*
   
-   2. * **Media Slant is Contagious** (virtual)
+   2. * **Media Slant is Contagious** (virtual, [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218))
       * *Elliott Ash, Philine Widmer and Sergio Galletta*
    
    3. * **Enhancing Model Robustness and Fairness with Causality: A Regularization Approach** (virtual, [poster](https://mail.google.com/mail/u/1?ui=2&ik=ef6f679caf&attid=0.1&permmsgid=msg-f:1715929797889055012&th=17d0350f4eaf5924&view=att&disp=inline))

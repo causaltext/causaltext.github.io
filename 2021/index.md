@@ -11,7 +11,7 @@ title: Home
 
 ## November 10, 2021 at [EMNLP 2021](https://2021.emnlp.org/)
 
-**Workshop coordinates for [registered](https://2021.emnlp.org/registration) attendees: [On-site](https://drive.google.com/file/d/1LZ26fqj2J8Y1Ex3Kkm_inU6jg_ylCfPG/view), [Virtual](https://underline.io/events/192/sessions?eventSessionId=7852)**
+**Workshop coordinates for [registered](https://2021.emnlp.org/registration) attendees: [Punta Cana 3 (on-site)](https://drive.google.com/file/d/1LZ26fqj2J8Y1Ex3Kkm_inU6jg_ylCfPG/view), [Zoom (virtual)](https://underline.io/events/192/sessions?eventSessionId=7852)**
 
 The CI+NLP workshop brings together domain and methodological experts
 across academic communities, with an interest in the intersection of causal

@@ -53,7 +53,7 @@ to interact further with paper authors during the poster session.
    1. * **Causal Augmentation for Causal Sentence Classification** (virtual, [poster](https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-10-20/zd43kko/CausalAugment_CINLP_2021_Presentation_POSTER.pdf))
       * *Fiona Anting Tan, Devamanyu Hazarika, See-Kiong Ng, Soujanya Poria and Roger Zimmermann*
   
-   2. * **Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects** (in-person)
+   2. * **Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects** (in-person, [poster](https://drive.google.com/file/d/1787tdZp6XaT1Rsl9-g5iQIRtbwBeYbFr/view?usp=drive_web))
       * *Katherine Keith, Douglas Rice and Brendan O'Connor*
   
    3. * **Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US** (in-person, [poster](https://drive.google.com/file/d/1dZ-yd4uc0T9HPbjQ7tsEBZw9ddoFfcYT/))

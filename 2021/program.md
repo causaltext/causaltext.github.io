@@ -23,7 +23,7 @@ title: Program
 **15:35 ---<br/>16:25**	| 14:35 ---<br/>15:25 | 11:35 ---<br/>12:25 | **Keynote:** **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** ([slides](https://github.com/causaltext/causaltext.github.io/raw/master/2021/cristian.pdf))<br/>*Session Chair: Emaad Manzoor* |
 **16:25 ---<br/>16:45**	| 15:25 ---<br/>15:45 | 12:25 ---<br/>12:45 | *Coffee Break* |
 **16:45 ---<br/>17:30**	| 15:45 ---<br/>16:30 | 12:45 ---<br/>13:30 | **Panel Discussion** |
-**17:30 ---<br/>18:20**	| 16:30 ---<br/>17:20 | 13:30 ---<br/>14:20 | **Keynote:** **[Susan Athey](https://athey.people.stanford.edu/)**<br/>*Session Chair: Katherine Keith* |
+**17:30 ---<br/>18:20**	| 16:30 ---<br/>17:20 | 13:30 ---<br/>14:20 | **Keynote:** **[Susan Athey](https://athey.people.stanford.edu/)** ([slides](https://github.com/causaltext/causaltext.github.io/raw/master/2021/athey.pdf))<br/>*Session Chair: Katherine Keith* |
 **18:20 ---<br/>18:30**	| 17:20 ---<br/>17:30 | 14:20 ---<br/>14:30 | *Mini Break* |
 **18:30 ---<br/>19:20**	| 17:30 ---<br/>18:20 | 14:30 ---<br/>15:20 | **Keynote:** **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)**<br/>*Session Chair: Katherine Keith* |
 **19:20 ---<br/>19:30** | 18:20 ---<br/>18:30 | 15:20 ---<br/>15:30 | Closing Remarks |

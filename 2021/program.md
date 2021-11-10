@@ -15,7 +15,7 @@ title: Program
 **09:00 ---<br/>09:10** | 08:00 ---<br/>08:10 | 05:00 ---<br/>05:10 | Opening Remarks (Roi Reichart) |
 **09:10 ---<br/>10:00**	| 08:10 ---<br/>09:00 | 05:10 ---<br/>06:00 | **Keynote:** **[David Blei](http://www.cs.columbia.edu/~blei/)**<br/>*Session Chair: Roi Reichart*|
 **10:00 ---<br/>10:30**	| 09:00 ---<br/>09:30 | 06:00 ---<br/>06:30 | *Coffee Break* |
-**10:30 ---<br/>12:00**	| 09:30 ---<br/>11:00 | 06:30 ---<br/>08:00 | **Paper Oral Session I**<br/>*Session Chair: Roi Reichart* |
+**10:30 ---<br/>12:00**	| 09:30 ---<br/>11:00 | 06:30 ---<br/>08:00 | **Paper Oral Session I**<br/>*Session Chair: Amir Feder* |
 **12:00 ---<br/>13:00**	| 11:00 ---<br/>12:00 | 08:00 ---<br/>09:00 | *Lunch Break* |
 **13:00 ---<br/>14:30**	| 12:00 ---<br/>13:30 | 09:00 ---<br/>10:30 | **Paper Oral Session II**<br/>*Session Chair: Emaad Manzoor* |
 **14:30 ---<br/>14:45**	| 13:30 ---<br/>13:45 | 10:30 ---<br/>10:45 | *Mini Break* |
@@ -71,7 +71,7 @@ to interact further with paper authors during the poster session.
 ### Oral Session II
 
    {:.publications start="1"}
-   1. * **It's quality and quantity: the effect of the amount of comments on online suicidal posts** (in-person)
+   1. * **It's quality and quantity: the effect of the amount of comments on online suicidal posts** (in-person, [poster](https://drive.google.com/file/d/1kUyRYpjo0u6G2iQhXqUAG0Iv6THaEVCA/view?usp=gmail))
        * *Daniel M. Low, Kelly Zuromski, Daniel Kessler, Satrajit S. Ghosh, Matthew K. Nock and Walter Dempsey*
   
    2. * **Media Slant is Contagious** (virtual)

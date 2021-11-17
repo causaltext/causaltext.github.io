@@ -25,7 +25,7 @@ title: Program
 **16:45 ---<br/>17:30**	| 15:45 ---<br/>16:30 | 12:45 ---<br/>13:30 | **Panel Discussion** |
 **17:30 ---<br/>18:20**	| 16:30 ---<br/>17:20 | 13:30 ---<br/>14:20 | **Keynote:** **[Susan Athey](https://athey.people.stanford.edu/)** ([slides](https://github.com/causaltext/causaltext.github.io/raw/master/2021/athey.pdf))<br/>*Session Chair: Katherine Keith* |
 **18:20 ---<br/>18:30**	| 17:20 ---<br/>17:30 | 14:20 ---<br/>14:30 | *Mini Break* |
-**18:30 ---<br/>19:20**	| 17:30 ---<br/>18:20 | 14:30 ---<br/>15:20 | **Keynote:** **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)**<br/>*Session Chair: Katherine Keith* |
+**18:30 ---<br/>19:20**	| 17:30 ---<br/>18:20 | 14:30 ---<br/>15:20 | **Keynote:** **[‪Bernhard Schölkopf](https://www.is.mpg.de/~bs)** ([slides](https://github.com/causaltext/causaltext.github.io/raw/master/2021/bernhard.pdf))<br/>*Session Chair: Katherine Keith* |
 **19:20 ---<br/>19:30** | 18:20 ---<br/>18:30 | 15:20 ---<br/>15:30 | Closing Remarks |
 
 ## Panel Discussion
